@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591573521361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "66|19|74|0|\n120|63|132|4|\n133|46|147|0|\n",
+    "hash" : "1647210115",
+    "id" : "AB1B466C",
+    "lastKnownWriteTime" : 1591799410,
+    "last_content_update" : 1591799410384,
+    "path" : "~/R U Ready or Not/hahaWK9-10 go BRRRR naive bayes and dec trees.R",
+    "project_path" : "hahaWK9-10 go BRRRR naive bayes and dec trees.R",
+    "properties" : {
+        "cursorPosition" : "214,53",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

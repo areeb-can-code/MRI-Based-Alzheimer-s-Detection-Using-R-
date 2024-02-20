@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590725505249.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "11|29|12|14|\n",
+    "hash" : "984572160",
+    "id" : "A880540A",
+    "lastKnownWriteTime" : 1590840106,
+    "last_content_update" : 1590840106136,
+    "path" : "~/R U Ready or Not/Weeks7-8 Trees and Gini Index.R",
+    "project_path" : "Weeks7-8 Trees and Gini Index.R",
+    "properties" : {
+        "cursorPosition" : "275,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
