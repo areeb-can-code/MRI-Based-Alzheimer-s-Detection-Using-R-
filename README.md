@@ -6,6 +6,10 @@ This project aims to develop predictive models for the early detection of Alzhei
 ## Project Description
 Alzheimer's disease and dementia pose significant challenges to public health, with early detection playing a crucial role in providing timely interventions and improving patient outcomes. This project focuses on leveraging data science methodologies to develop predictive models capable of identifying signs of Alzheimer's and dementia based on MRI data.
 
+
+![image](https://github.com/areeb-can-code/MRI-Based-Alzheimer-s-Detection-Using-R-/assets/73396393/08773043-71f0-4c94-9ecf-860bd6f1f8f1)
+
+
 ### Key Features
 - Utilization of R programming language for data analysis and model development.
 - Application of decision trees and k-means clustering algorithms to analyze MRI datasets.
