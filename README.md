@@ -21,4 +21,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 2. **Install Dependencies:** Ensure you have R and the necessary R packages installed. You can install the required packages using the following command in R:
-install.packages(c("package1", "package2", ...))
+install.packages(c("tidyverse", "readr", "ggplot2", "ggcorrplot", "quantreg", "caret", "rattle", "e1071", "rpart.plot", "caTools"))
+
